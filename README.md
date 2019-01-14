@@ -8,8 +8,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 We wanted to go with the best trade-off between price and performance. This resulted in a few design changes, which we had to accomodate as we proceeded. The choice of hardware is presented as follows:
 ```markdown
-**1. Motors:** Our main aim was to design the service robot for servicing food and drinks at restaurants. Hence, the initial designs included smaller motors, which were capable of pulling small loads. However, as we went on to take a more modular approach, we decided to beef up the motors a little bit. Which is why we went with the NEMA 23 bipolar stepper motors, which can carry a load of 20kgs per motor.
-**2. Sensors:** This is where it gets tricky. The process of choosing sensors greatly depends on what we want from the robot, and how precise we want it to be.  
+***1. Motors:*** Our main aim was to design the service robot for servicing food and drinks at restaurants. Hence, the initial designs included smaller motors, which were capable of pulling small loads. However, as we went on to take a more modular approach, we decided to beef up the motors a little bit. Which is why we went with the NEMA 23 bipolar stepper motors, which can carry a load of 20kgs per motor.
+***2. Sensors:*** This is where it gets tricky. The process of choosing sensors greatly depends on what we want from the robot, and how precise we want it to be.  
 3. 
 4. 
 
