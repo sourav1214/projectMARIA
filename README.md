@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the build log of project MARIA
 
-You can use the [editor on GitHub](https://github.com/sampreets3/projectMARIA/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+MARIA is a ***Multiple Application Robotic Intelligent Assistant***. It is capable of performing a wide array of tasks, like intelligent navigation, social interaction, and integration into corporate offices and industries alike.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
