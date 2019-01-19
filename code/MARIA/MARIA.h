@@ -21,10 +21,10 @@ namespace constants
   //Define SONAR Sensor pins:
   const int TRIG1 = 12;
   const int ECHO1 = 11;
-  const int TRIG2 = 0;  //Set this when working with second sensor
-  const int ECHO2 = 0;  //Set this when working with second sensor
-  const int TRIG3 = 0;  //Set this when working with third sensor
-  const int ECHO3 = 0;  //Set this when working with third sensor
+  const int TRIG2 = 8;  //Set this when working with second sensor
+  const int ECHO2 = 9;  //Set this when working with second sensor
+  const int TRIG3 = 7;  //Set this when working with third sensor
+  const int ECHO3 = 6;  //Set this when working with third sensor
   //Define onboard LED
   const int LED = 13;
 }
